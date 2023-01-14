@@ -5,7 +5,7 @@
     <classes>
       <class name="com.swiggy.testscripts.TestRunner"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test Swiggy -->
   <listeners>
 		<listener class-name="com.listeners.TestListener"></listener>
 	</listeners>
