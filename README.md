@@ -1,3 +1,4 @@
+![ExtentReportForSwiggyApplicationTest](https://user-images.githubusercontent.com/69714824/212488235-fcab0e7a-91b2-4ad5-8dac-1e8ab3fc93ff.PNG)
 # simplilearnPhaseCucumberTestNG
 
 #Framework for the Swiggy Application Testing in Different Environment.
