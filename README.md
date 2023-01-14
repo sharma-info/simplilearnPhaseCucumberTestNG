@@ -1,4 +1,3 @@
-![ExtentReportForSwiggyApplicationTest](https://user-images.githubusercontent.com/69714824/212488235-fcab0e7a-91b2-4ad5-8dac-1e8ab3fc93ff.PNG)
 # simplilearnPhaseCucumberTestNG
 
 #Framework for the Swiggy Application Testing in Different Environment.
@@ -33,5 +32,8 @@ Run the project in different environments by using selenium grid.
 Create and build Jenkins job for the project.
 Run the project in Jenkins and Extent report will be generated.
 Push the code to your GitHub repositories.
+
+![ExtentReportForSwiggyApplicationTest](https://user-images.githubusercontent.com/69714824/212488332-45215063-138f-4de3-8f93-f9ff46452daf.PNG)
+
 
 
