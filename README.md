@@ -33,4 +33,4 @@ Create and build Jenkins job for the project.
 Run the project in Jenkins and Extent report will be generated.
 Push the code to your GitHub repositories.
 
-![ExtentReportForSwiggyApplicationTest](https://user-images.githubusercontent.com/69714824/212486813-94a34509-4f10-4f07-90e6-811278a43ce0.PNG)
+![ExtentReportForSwiggyApplicationTest](https://user-images.githubusercontent.com/69714824/212487975-d62a1719-4aff-40f6-b8e5-75737578cd27.PNG)
